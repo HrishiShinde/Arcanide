@@ -1,0 +1,237 @@
+/* 
+    Created on : 25 Nov, 2020, 4:00:55 PM
+    Author     : Hrishikesh Shinde
+*/
+
+.navbar-brand{
+    color: #3b3b3b;
+}
+
+.nav-link{
+    color: #1b0707;
+}
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-top: 25px;
+    font-family: quicksand;
+}
+
+.carousel-caption p{
+    font-family: quicksand;
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.carousel-caption a{
+    text-transform: uppercase;
+    background: #262626;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 15px;
+}
+
+#nav-name{
+    font-family: 'quicksand', sans-serif;
+}
+
+.navbar-nav a{
+    font-family: quicksand;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active ,.navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link{
+    color: #3b3b3b;
+} 
+
+.navbar-light .navbar-nav .nav-link{
+    color: #3b3b3b;
+}
+
+.navbar-nav{
+    text-align: center;
+}
+
+.nav-link{
+    padding: .2rem 1rem;
+}
+
+.nav-link.active, .nav-link:focus{
+    color: #646464;
+}
+
+body{
+    background-color: #333333;
+}
+
+.crdbd{
+    background-color: black;
+}
+
+.crdbd{
+    color: floralwhite;
+}
+
+.crdtxt{
+    color: grey;
+}
+
+
+
+nav{
+    transition: 0.6s;
+    padding: 40px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logg{
+    color: floralwhite;
+    padding: .2rem 1rem;
+    font-family: quicksand;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.modal-content{
+    background-color: #232734;
+}
+
+.clr{
+    font-family: quicksand;
+    color: floralwhite;
+    font-size: 15px;
+}
+
+#signupp{
+    font-family: quicksand;
+    color: #a7a7a7;
+    font-size: 15px;
+}
+
+#loghead{
+    font-family: quicksand;
+    color: floralwhite;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+#Hedding{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.cardhedbg{
+    background-color: #1d1d1d;
+    color: floralwhite;
+}
+
+.cardbodbg{
+    background-color: #212121;
+}
+
+.parallax{
+    background-image: url(parallax6.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.text{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: floralwhite;             
+}   
+#logout{
+    color: floralwhite;
+    padding: .2rem 1rem;
+    font-family: quicksand;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+            
+.form-group i{
+    position: absolute;
+    visibility: hidden;
+    top: 40px;
+    right: 10px;
+}
+
+.form-group small{
+    position: absolute;
+    visibility: hidden;
+    color: white;
+}
+
+.form-group.success input{
+    border:solid 3px #2ecc71;
+}
+.form-group.error input{
+    border:solid 3px #e74c3c;
+}
+
+.form-group.success i.fa-check-circle{
+    visibility: visible;
+    color: #2ecc71;
+}
+.form-group.error i.fa-exclamation-circle{
+    visibility: visible;
+    color: #e74c3c;
+}
+
+.form-group.error small{
+    visibility: visible;
+    color: #e74c3c;
+}
+
+.feather{
+  width: 16px;
+  height: 16px;
+}
+
+#sidebarMenu{
+    background-color: #333333;
+}
+
+.hmm{
+    color: #272727;
+}
+
+#tabble{
+    margin: 20px;
+    padding: 20px;
+}
+
+.cello{
+    margin: 5px;
+    padding: 5px;
+}

@@ -1,0 +1,157 @@
+/* 
+    Created on : 26 Nov, 2020, 2:13:49 AM
+    Author     : Hrishikesh Shinde
+*/
+
+/* 
+    Created on : 8 Oct, 2020, 5:46:21 PM
+    Author     : Hrishikesh Shinde
+*/
+
+/* Nav and all */    
+.navbar-nav a{
+    font-family: quicksand;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-brand{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active ,.navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link{
+    color: #3b3b3b;
+} 
+
+.navbar-light .navbar-nav .nav-link{
+    color: #3b3b3b;
+}
+
+.navbar-nav{
+    text-align: center;
+}
+
+#nav-name{
+    font-family: 'quicksand', sans-serif;
+}
+
+.nav-link{
+    padding: .2rem 1rem;
+}
+
+.nav-link.active, .nav-link:focus{
+    color: #646464;
+}
+
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-top: 25px;
+    font-family: quicksand;
+}
+
+.carousel-caption p{
+    font-family: quicksand;
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.9;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.carousel-caption a{
+    text-transform: uppercase;
+    background: #262626;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 15px;
+}
+
+body{
+    background-color: #333333;
+}
+
+#logg{
+    color: floralwhite;
+    padding: .2rem 1rem;
+    font-family: quicksand;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.modal-content{
+    background-color: #232734;
+}
+
+.clr{
+    font-family: quicksand;
+    color: floralwhite;
+    font-size: 15px;
+}
+
+#signupp{
+    font-family: quicksand;
+    color: #a7a7a7;
+    font-size: 15px;
+}
+
+#loghead{
+    font-family: quicksand;
+    color: floralwhite;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* ~~~~~~~~~~~~ */ 
+
+.games{
+    height: 150px;
+    width: 250px;
+}
+
+#Hedding{
+    font-weight: bold;
+}
+
+#cardhedbg{
+    background-color: #1d1d1d;
+    color: floralwhite;
+}
+
+#cardbodbg{
+    background-color: #212121;
+}
+
+.text{
+   font-size: 22px; 
+}
+
+#logout{
+                color: floralwhite;
+                padding: .2rem 1rem;
+                font-family: quicksand;
+                font-size: 18px;
+                text-transform: uppercase;
+                font-weight: bold;
+}
+
+#fearow{
+    background-image: url(images/2_2.jpg);
+}
+
+.hoin{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+            
